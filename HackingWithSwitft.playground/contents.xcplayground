@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true'>
+    <pages>
+        <page name='2.Type of Data'/>
+        <page name='1.Variable &amp;&amp; connstant '/>
+        <page name='3.Operaters'/>
+        <page name='4.StringInterpolation'/>
+        <page name='5.Array'/>
+        <page name='6.Dictionaries'/>
+        <page name='7.Dictionaries'/>
+        <page name='8.Conditional statement'/>
+        <page name='9.Loops'/>
+        <page name='10.Switch case'/>
+        <page name='11.Function'/>
+        <page name='12.Optionals'/>
+        <page name='13.OptionalChaining'/>
+        <page name='14.Enumerations'/>
+    </pages>
+</playground>
