@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <playground version='6.0' target-platform='ios' buildActiveScheme='true'>
     <pages>
-        <page name='2.Type of Data'/>
         <page name='1.Variable &amp;&amp; connstant '/>
+        <page name='2.Type of Data'/>
         <page name='3.Operaters'/>
         <page name='4.StringInterpolation'/>
         <page name='5.Array'/>
@@ -15,5 +15,12 @@
         <page name='12.Optionals'/>
         <page name='13.OptionalChaining'/>
         <page name='14.Enumerations'/>
+        <page name='15.Structs'/>
+        <page name='16.Classes'/>
+        <page name='17.Properties'/>
+        <page name='18.Static Properties and method'/>
+        <page name='19.Access control'/>
+        <page name='20.Polymorphism and typecasting'/>
+        <page name='21.Closures'/>
     </pages>
 </playground>
